@@ -1,0 +1,147 @@
+[
+    {
+      "name": "Белорусская АЭС",
+      "lat": 54.76108707042333,
+      "lng": 26.089879186857974,
+      "reactorType": "ВВЭР-1200",
+      "power_netto": 2200,
+      "power_brutto": 2388,
+      "blocks": 2
+    },
+    {
+      "name": "Ленинградская АЭС",
+      "lat": 59.841026864619366,
+      "lng": 29.03449059376591,
+      "reactorType": "РБМК-1000",
+      "power_netto": 4052,
+      "power_brutto": 4376,
+      "blocks": 4
+    },
+    {
+      "name": "Калининская АЭС",
+      "lat": 58.132573038406434,
+      "lng": 35.25262626936104,
+      "reactorType": "ВВЭР-1000",
+      "power_netto": 3800,
+      "power_brutto": 4000,
+      "blocks": 4
+    },
+    {
+      "name": "Смоленская АЭС",
+      "lat": 54.1672177317649,
+      "lng": 33.23976870273391,
+      "reactorType": "РБМК-1000",
+      "power_netto": 2775,
+      "power_brutto": 3000,
+      "blocks": 3
+    },
+    {
+      "name": "Белоярская АЭС",
+      "lat": 56.84149604146322,
+      "lng": 61.31953184881503,
+      "reactorType": "БН-800",
+      "power_netto": 1380,
+      "power_brutto": 1485,
+      "blocks": 2
+    },
+    {
+      "name": "Балаковская АЭС",
+      "lat": 52.09313970038545,
+      "lng": 47.954501239709636,
+      "reactorType": "ВВЭР-1000",
+      "power_netto": 3800,
+      "power_brutto": 4000,
+      "blocks": 4
+    },
+    {
+      "name": "Ростовская АЭС",
+      "lat": 47.59945086494392,
+      "lng": 42.37009463969303,
+      "reactorType": "ВВЭР-1000",
+      "power_netto": 3829,
+      "power_brutto": 4030,
+      "blocks": 4
+    },
+    {
+      "name": "Билибинская АЭС",
+      "lat": 68.05132263283487,
+      "lng": 166.5399032039456,
+      "reactorType": "ЭГП-6",
+      "power_netto": 33,
+      "power_brutto": 36,
+      "blocks": 3
+    },
+    {
+      "name": "Академик Ломоносов ПАТЭС",
+      "lat": 69.70974415627786,
+      "lng": 170.3081181794432,
+      "reactorType": "KLT-40",
+      "power_netto": 64,
+      "power_brutto": 76,
+      "blocks": 1
+    },
+    {
+      "name": "Нововоронежская АЭС",
+      "lat": 51.27476265512446,
+      "lng": 39.20182001424133,
+      "reactorType": "ВВЭР-1000",
+      "power_netto": 3536,
+      "power_brutto": 3778,
+      "blocks": 4
+    },
+    {
+      "name": "Кольская АЭС",
+      "lat": 67.46402533226887,
+      "lng": 32.47983739596798,
+      "reactorType": "ВВЭР-440",
+      "power_netto": 1644,
+      "power_brutto": 1760,
+      "blocks": 4
+    },
+    {
+      "name": "Курская АЭС",
+      "lat": 51.67378534715049, 
+      "lng": 35.603946760441204,
+      "reactorType": "РБМК-1000",
+      "power_netto": 2775,
+      "power_brutto": 3000,
+      "blocks": 3
+    },
+    {
+      "name": "Ровеньская АЭС",
+      "lat": 51.32670983073938,
+      "lng": 25.895379072018255,
+      "reactorType": "ВВЭР-1000",
+      "power_netto": 2657,
+      "power_brutto": 2835,
+      "blocks": 4
+    },
+    {
+      "name": "Хмельницкая АЭС",
+      "lat": 50.30337089262503,
+      "lng": 26.64802042216289,
+      "reactorType": "ВВЭР-1000",
+      "power_netto": 1900,
+      "power_brutto": 2000,
+      "blocks": 2
+    },
+    {
+      "name": "Южноукраинская АЭС",
+      "lat": 47.81231594295266,
+      "lng": 31.220073607003737,
+      "reactorType": "ВВЭР-1000",
+      "power_netto": 2850,
+      "power_brutto": 3000,
+      "blocks": 3
+    },
+    {
+      "name": "Запорожская АЭС",
+      "lat": 47.50964408734197,
+      "lng": 34.588696757341324,
+      "reactorType": "ВВЭР-1000",
+      "power_netto": 5700,
+      "power_brutto": 6000,
+      "blocks": 6
+    }
+  ]
+  
